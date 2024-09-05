@@ -2,7 +2,7 @@
 
 This repository contains supplementary data supporting the findings of the paper: 
 
-Kapil, Venkat, et al. “Species Mass Transfer Governs the Selectivity of Gas Diffusion Electrodes toward H2O2 Electrosynthesis.” 
+Cui, Chen, et al. “Species Mass Transfer Governs the Selectivity of Gas Diffusion Electrodes toward H2O2 Electrosynthesis.” 
 
 ## License
 The content of this repository is licensed under the CC-BY-SA-4.0 license. See the file
