@@ -9,5 +9,5 @@ The content of this repository is licensed under the CC-BY-SA-4.0 license. See t
 `LICENSE` for details.
 
 ## Contents
-* `relaxed structure`:
-All relaxed structure about ORR along the 2e- or 4e- pathway on the ether group
+* `Structure`:
+All optimized computational models as well as initial and final configurations for MD simulations.
